@@ -1,2 +1,2 @@
-# porfolio
+# portfolio
 a one-page website
