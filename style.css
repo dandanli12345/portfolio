@@ -1,21 +1,68 @@
-h1{
-  background-color:#90EE90;
+ h1{
   font-size:50px;
   font-family:Script MJ Bold, Zapf Chancery,Cursive;
-  color:#006400;
-}
-align{
+  color:#045004;
   text-align:center;
+}
+header{
+  background-color:#b5e9b5;
+  padding:1.5px;
+}
+main{
+  background-color:#f5fdee
 }
 
 h2{
   font-size:36px;
   font-family:Personal,Comic Sans MS,Monospace;
   color:#66CDAA;
+  text-align:center;
+}
+h3{
+  font-size:26px;
+  font-family:Monospace,Zapf Chancery,Cursive;
+  position:relative;
+  margin-left:380px;
+  margin-top:-25px;
+}
+img{
+  margin-top:10px;
+  margin-left:10px;
+  border-radius:50%;
+}
+.text-on-right{
+  position:relative;
+  float:right;
+  margin-top: 100px;
+  margin-right: 5px;
+  border:2px dotted grey;
+  padding:20px;
+}
+.introduction{
+  font-size: 20px;
+}
+
+.about-me{
+  margin-left:26px;
+  margin-right:26px;
+}
+
+a:link{
+  color:blue;
+}
+a:visited{
+  color:purple;
+}
+a:hover{
+  color:green;
+}
+a:active{
+  color:red;
 }
 
 footer{
   background-color:#2E8B57;
-  font-size:12px;
+  font-size:14px;
   font-family:Century Gothic,Rockwell,Georgia;
+  text-align:center
 }
