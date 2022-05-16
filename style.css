@@ -64,5 +64,6 @@ footer{
   background-color:#2E8B57;
   font-size:14px;
   font-family:Century Gothic,Rockwell,Georgia;
-  text-align:center
+  text-align:center;
+  padding:1px;
 }
