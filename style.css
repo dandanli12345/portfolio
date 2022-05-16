@@ -28,19 +28,19 @@ h3{
   font-size:26px;
   font-family:Monospace,Zapf Chancery,Cursive;
   position:relative;
-  margin-left:480px;/*to make the third head a little to the right compared to the first head*/
+  margin-left:430px;/*to make the third head a little to the right compared to the first head*/
   margin-top:-25px;/*to make the third head a little to the top, closer to the first head*/
 }
 img{
   margin-top:10px;
-  margin-left:10px;
+  margin-left:15px;
   border-radius:50%;
 }
 .text-on-right{
   position:relative;
   float:right;/*to make this part sitting to the right of the image*/
   margin-top: 100px;
-  margin-right: 5px;
+  margin-right: 15px;
   border:2px dotted grey;/*to give a visible dotted box around this part, making it neat*/
   padding:20px;
 }
