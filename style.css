@@ -1,4 +1,10 @@
- h1{
+ 
+.web-page{
+   width:900px;
+   margin:20px auto 0 auto;
+   padding:20px;
+}
+h1{
   font-size:50px;
   font-family:Script MJ Bold, Zapf Chancery,Cursive;/*provide more options for the font family*/
   color:#045004;
@@ -22,7 +28,7 @@ h3{
   font-size:26px;
   font-family:Monospace,Zapf Chancery,Cursive;
   position:relative;
-  margin-left:380px;/*to make the third head a little to the right compared to the first head*/
+  margin-left:480px;/*to make the third head a little to the right compared to the first head*/
   margin-top:-25px;/*to make the third head a little to the top, closer to the first head*/
 }
 img{
