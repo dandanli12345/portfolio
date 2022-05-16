@@ -1,6 +1,6 @@
  h1{
   font-size:50px;
-  font-family:Script MJ Bold, Zapf Chancery,Cursive;
+  font-family:Script MJ Bold, Zapf Chancery,Cursive;/*provide more options for the font family*/
   color:#045004;
   text-align:center;
 }
@@ -9,7 +9,7 @@ header{
   padding:1.5px;
 }
 main{
-  background-color:#f5fdee
+  background-color:#f5fdee /*to make the whole text body inside this backgroud color*/
 }
 
 h2{
@@ -22,8 +22,8 @@ h3{
   font-size:26px;
   font-family:Monospace,Zapf Chancery,Cursive;
   position:relative;
-  margin-left:380px;
-  margin-top:-25px;
+  margin-left:380px;/*to make the third head a little to the right compared to the first head*/
+  margin-top:-25px;/*to make the third head a little to the top, closer to the first head*/
 }
 img{
   margin-top:10px;
@@ -32,10 +32,10 @@ img{
 }
 .text-on-right{
   position:relative;
-  float:right;
+  float:right;/*to make this part sitting to the right of the image*/
   margin-top: 100px;
   margin-right: 5px;
-  border:2px dotted grey;
+  border:2px dotted grey;/*to give a visible dotted box around this part, making it neat*/
   padding:20px;
 }
 .introduction{
@@ -48,7 +48,7 @@ img{
 }
 
 a:link{
-  color:blue;
+  color:blue;/*to change the attribute colors based on its conditions*/
 }
 a:visited{
   color:purple;
